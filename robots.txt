@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://www.xn--vikelaps-0za.ee/sitemap.xml
