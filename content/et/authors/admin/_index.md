@@ -14,7 +14,7 @@ organizations:
   url: https://www.lastefoto.ee/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Vastsündinud beebide fotograaf Tallinnas. Loome koos Teie pere ilusat ja ainulaadset ajalugu.
+bio: Väikelaste fotograaf Tallinnas. Loome koos Teie pere ilusat ja ainulaadset ajalugu.
 
 # Interests to show in About widget
 interests:
@@ -25,20 +25,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Koolitused rahvusvahelise newborn foorumis
-    institution: newbornforum.ru
-    year: 2020
   - course: Vastsündinu ja väikelaste pildistamine
     institution: annapotemkina.com
     year: 2019
-  - course: Learn Newborn
-    institution: mynewbornbeauty.com
-    year: 2018
-  - course: Christmas newborn photography
-    institution: ok-academy.ru
-    year: 2018
-  - course: Newborn photography
-    institution: ok-academy.ru/newbornphoto
+  - course: Lavastatud lastefotograafia ja art järeltöötlus
+    institution: karina-kiel.com
     year: 2017
 
 # Social/Academic Networking
@@ -73,7 +64,7 @@ email: "viktoria.iljin@gmail.com"
 highlight_name: false
 ---
 
-Tere! Olen Viktoria - vastsündinud beebide fotograaf Tallinnas, Eestis. 
+Tere! Olen Viktoria - väikelastefotograaf Tallinnas, Eestis. 
 
 Koos saaksime luua teie pere ilusa ja ainulaadse ajaloo. 
 

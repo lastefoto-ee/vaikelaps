@@ -26,15 +26,13 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: kõik
-    tag: kõik
-  - name: beanbagil
-    tag: beanbagil
-  - name: mähitud 
-    tag: mähitud
-  - name: rekvisiidis
-    tag: rekvisiidis
-  - name: kaksikud
-    tag: kaksikud
+    tag: "*"
+  - name: beebi
+    tag: beebi
+  - name: cake smash
+    tag: cake smash
+  - name: värvid 
+    tag: värvid
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

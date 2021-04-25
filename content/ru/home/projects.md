@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Портфолио
-subtitle: 'неподвластные времени и самые красивые фотографии новорожденных'
+subtitle: 'неподвластные времени и самые красивые фотографии малышей'
 
 content:
   # Page type to display. E.g. project.
@@ -26,15 +26,11 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: все
-    tag: все
-  - name: бинбег
-    tag: бинбег
-  - name: обмотка 
-    tag: обмотка
-  - name: реквизит
-    tag: реквизит
-  - name: близнецы
-    tag: близнецы
+    tag: "*"
+  - name: cake smash
+    tag: cake smash
+  - name: краски 
+    tag: краски
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
