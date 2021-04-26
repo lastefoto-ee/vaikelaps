@@ -23,14 +23,6 @@ date_format: 2006-01-01
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: "https://www.lastefoto.ee/newborn-forum-participation.jpg"
-  date_end: ""
-  date_start: "2020-02-07"
-  description: "Участие в форуме фотографов новорожденных Newborn Forum"
-  organization: Newborn Forum 
-  organization_url: "https://www.instagram.com/newbornforum/"
-  title: Посещение ежегодного форума новорожденных
-  url: "https://www.instagram.com/newbornforum/"
 - certificate_url: "https://www.lastefoto.ee/newborn-photography-annapotemkina.jpg"
   date_end: ""
   date_start: "2019-09-28"

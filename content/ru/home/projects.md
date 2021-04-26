@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: все
     tag: "*"
+  - name: малыш
+    tag: малыш
   - name: cake smash
     tag: cake smash
   - name: краски 

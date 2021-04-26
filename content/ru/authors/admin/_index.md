@@ -25,20 +25,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Мастер-классы форума фотографов новорожденных
-    institution: newbornforum.ru
-    year: 2020
   - course: Фотография новорожденных и детей
     institution: annapotemkina.com
     year: 2019
-  - course: Learn Newborn
-    institution: mynewbornbeauty.com
-    year: 2018
-  - course: Рожденственская фотография новорожденных
-    institution: ok-academy.ru
-    year: 2018
-  - course: Фотография новорожденных
-    institution: ok-academy.ru/newbornphoto
+  - course: Детская постановочная фотография и арт пост-обработка
+    institution: karina-kiel.com
     year: 2017
 
 # Social/Academic Networking
@@ -73,9 +64,9 @@ email: "viktoria.iljin@gmail.com"
 highlight_name: false
 ---
 
-Здравствуйте! Я Виктория, фотограф новорожденных из Таллинна.
+Здравствуйте! Я Виктория, фотограф малышей в Таллинне.
 
-Вместе мы могли бы создать уникальную историю вашей семьи
+Вместе мы могли бы создать уникальную историю вашей семьи.
 
 Дети такие естественные, искренние, эмоциональные и растут слишком быстро.
 

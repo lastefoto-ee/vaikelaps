@@ -36,31 +36,31 @@ Siis fotosessioon **Noor abstraktsionist** lõuendi ja söödavate värvidega - 
 
 Kuigi seda tüüpi fotosessioon on Tallinnas absoluutne uudsus, on mul juba õnnestunud piisavalt pildistada, et teha huvitavaid järeldusi.
 
-![Väikelapse värvidega sessioon](./lapse-varbidega-fotosessioon-1.jpg)
+![Väikelapse värvidega sessioon](./lapse-varvidega-fotosessioon-1.jpg)
 
 # Nagu “Cake smash!” fotosessioonil, ei tee kõik lapsed kohe «räpaseid» asju. Ja see on okei.
 
-![väikelapse värvidega pildistamine](./lapse-varbidega-fotosessioon-2.jpg)
+![väikelapse värvidega pildistamine](./lapse-varvidega-fotosessioon-2.jpg)
 
 Kõik inimesed vajavad uue ruumi ja inimesega kohanemiseks aega, eriti väikesed.
 
-![Väikelapse värvidega fotosessioon](./lapse-varbidega-fotosessioon-3.jpg)
+![Väikelapse värvidega fotosessioon](./lapse-varvidega-fotosessioon-3.jpg)
 
 Võtan seda aega alati varuga ja võtan arvesse ka lisapause joomiseks-söömiseks-pissimiseks. Seega, ärge muretsege, meil on kindlasti aega kõigeks, isegi kui laps kohe värvi ei haara.
 
-![Lapse värvidega sessioon](./lapse-varbidega-fotosessioon-4.jpg)
+![Lapse värvidega sessioon](./lapse-varvidega-fotosessioon-4.jpg)
 
 # Üllatavalt, aga mitte kõik lapsed armastavad määrduda. Just eile oli mul fotosessioon väikse printsessiga, kes ei tahtnud oma magusaid sõrmi määrida.
 
-![Lapse värvidega pildistamine](./lapse-varbidega-fotosessioon-5.jpg)
+![Lapse värvidega pildistamine](./lapse-varvidega-fotosessioon-5.jpg)
 
 Kuid leidsime lahenduse. Maalisime kõigi võimalike vahenditega: kasutatud oli lusikas, mänguasjahaamer, sõõrik mooniseemnetega ja isegi tükk pappi. Ja tulemus on suurepärane!
 
-![Lapse värvidega fotosessioon](./lapse-varbidega-fotosessioon-6.jpg)
+![Lapse värvidega fotosessioon](./lapse-varvidega-fotosessioon-6.jpg)
 
 Seetõttu ärge muretsege, kui midagi ei lähe kavandatud stsenaariumi järgi: eksprompt on reeglina veelgi huvitavam!
 
-![Väikelapse värvidega fotosessioon Tallinnas](./lapse-varbidega-fotosessioon-7.jpg)
+![Väikelapse värvidega fotosessioon Tallinnas](./lapse-varvidega-fotosessioon-7.jpg)
 
 
 
