@@ -6,7 +6,7 @@ title: Viktoria Iljin
 superuser: true
 
 # Role/position/tagline
-role: Newborn photographer
+role: Baby photographer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.lastefoto.ee/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Newborn photographer in Tallinn, Estonia.
+bio: Baby photographer in Tallinn, Estonia.
 
 # Interests to show in About widget
 interests:
@@ -69,7 +69,7 @@ email: "viktoria.iljin@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Hi! I'm Viktoria a newborn photographer in Tallinn, Estonia.
+Hi! I'm Viktoria a baby photographer in Tallinn, Estonia.
 
 Together we could create an unique **history of _your_ family ❤️**
 

@@ -26,15 +26,13 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: all
-    tag: all
-  - name: beanbag
-    tag: beanbag
-  - name: wrapped 
-    tag: wrapped
-  - name: props
-    tag: props
-  - name: twins
-    tag: twins
+    tag: "*"
+  - name: baby
+    tag: baby
+  - name: cake smash 
+    tag: cake smash
+  - name: colors
+    tag: colors
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

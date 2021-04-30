@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: photosession of a newborn on a posing pillow (beanbag), 7 processed digital photos, shooting for 2 hours in the studio, printed photos 10x15cm, USB drive with all photos in individually designed packaging, processing of additional photos 10 € / photo
+- description: baby photo session on a posing pillow (beanbag) and in props, 10 processed digital photos, shooting for 1 hour in the studio, printed photos 10x15cm, processing of additional photos 5 €/photo
   icon: camera-retro
   icon_pack: fas
-  name: Package S 160€
-- description: photosession of a newborn on a posing pillow (beanbag) and in the props, 15 processed digital photos,family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, USB drive with all photos in individually designed packaging, processing of additional photos 9 € / photo
+  name: BABY S 110€
+- description: baby photo session on a posing pillow (beanbag) and in props, family pictures, 15 processed digital photos and separate shots with mom-dad and brother-sister, shooting for 1 hour in the studio, printed photos 10x15cm, processing of additional photos 5 €/photo.
   icon: camera-retro
   icon_pack: fas
-  name: Package M 250€
-- description: photo ession of a newborn on a posing pillow (beanbag) and in the props, 25 processed digital photos, family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, photobook 20 x 20 cm, USB drive with all photos in individually designed packaging, processing of additional photos 8 € / photo
+  name: BABY M 140€
+- description: 20 digital photos processed with detailed retouching, 1 hour of shooting, cake (curd banana biscuit), balloons (15 pcs).
   icon: camera-retro
   icon_pack: fas
-  name: Package L 385€
+  name: CAKE SMASH 170€
+- description: 10 digital photos processed with detailed retouching, 40 minutes of shooting, edible paints, canvas with baby’s masterpiece - as a gift.
+  icon: camera-retro
+  icon_pack: fas
+  name: COLORS 120€
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

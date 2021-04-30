@@ -6,9 +6,9 @@
 et:
   languageCode: et
   contentDir: content/et
-  title: Beebifotograaf 
+  title: Väikelastefotograaf
   params:
-    description: Beebifotograaf Tallinnas - Viktoria Iljin
+    description: Väikelastefotograaf Tallinnas - Viktoria Iljin
   menu:
     main:
       - name: Minust
@@ -31,7 +31,7 @@ ru:
   contentDir: content/ru
   title: Фотограф малышей
   params:
-    description: Фотограф новорожденных в Таллинне - Виктория Ильин
+    description: Фотограф малышей в Таллинне - Виктория Ильин
   menu:  
     main:
       - name: Обо мне
@@ -52,9 +52,9 @@ ru:
 en:
   languageCode: en
   contentDir: content/en
-  title: Newborn photographer
+  title: Baby photographer
   params:
-    description: Newborn photographer in Tallinn - Viktoria Iljin
+    description: Baby photographer in Tallinn - Viktoria Iljin
   menu:
     main:
       - name: About me

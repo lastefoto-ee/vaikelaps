@@ -49,4 +49,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-{{< youtube zp9x5cIC_ow >}}
+{{< video src="vastsundinud-beebi-fotosessioon -tallinnas.mp4" controls="yes" >}}
+[Music](https://www.bensound.com)

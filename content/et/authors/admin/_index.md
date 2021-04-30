@@ -6,7 +6,7 @@ title: Viktoria Iljin
 superuser: true
 
 # Role/position/tagline
-role: Beebifotograaf
+role: Väikelastefotograaf
 
 # Organizations/Affiliations to show in About widget
 organizations:

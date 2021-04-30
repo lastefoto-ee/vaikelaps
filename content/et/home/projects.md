@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Portfoolio
-subtitle: 'ajatud ja kõige ilusamad väikelapse pildid'
+subtitle: 'ajatud ja kõige ilusamad väikelaste pildid'
 
 content:
   # Page type to display. E.g. project.
