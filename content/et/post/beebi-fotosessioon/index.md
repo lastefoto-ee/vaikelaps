@@ -50,12 +50,12 @@ Ahh, need silmad! 😍
 
 ![Väikelapse sessioon](./beebi-fotosessioon-1.jpg)
 
-Suuremate beebidega pildistamisel kehtib täpselt sama reegel, nagu vastsündinutega pildistamisel -
+Väikelaste pildistamisel kehtib täpselt sama reegel, nagu vastsündinu fotosessioonil -
 ## rahulik ema = rahulik beebi
 
 ![Väikelapse pildistamine pildistamine Tallinnas](./beebi-fotosessioon-2.jpg)
 
-Minge fotosessioonile naeratuse ja rahuliku südamega (jah, paanikat pole vaja), öelge beebile, kuhu ja milleks sinna lähete, laske tal näha teie enesekindlust ja suurepärast meeleolu! 
+Minge väikelapse fotosessioonile naeratuse ja rahuliku südamega (jah, paanikat pole vaja), öelge beebile, kuhu ja milleks sinna lähete, laske tal näha teie enesekindlust ja suurepärast meeleolu! 
 
 ![Väikelapse fotosessioon stuudios](./beebi-fotosessioon-3.jpg)
 
