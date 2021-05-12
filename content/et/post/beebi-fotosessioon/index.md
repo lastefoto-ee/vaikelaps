@@ -42,7 +42,7 @@ categories:
   - beebid
 
 ---
-{{< cta cta_text="Telli beebifotosessioon" cta_link="/#contact" cta_new_tab="true" cta_alt_text="või vaata kuidas toimub fotosessioon söödavate värvidega" cta_alt_link="https://www.lastefoto.ee/post/cake-smash-ehk-esimese-sunnipaeva-fotosessioon/" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Telli beebifotosessioon" cta_link="/#contact" cta_new_tab="true" cta_alt_text="või vaata kuidas toimub cake smash fotosessioon" cta_alt_link="https://www.lastefoto.ee/post/cake-smash-ehk-esimese-sunnipaeva-fotosessioon/" cta_alt_new_tab="false" >}}
 
 Vanemad beebid on minu stuudio sagedased külalised. 🥰
 
