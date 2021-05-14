@@ -49,4 +49,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-{{< video src="vastsundinu-fotosessioon-Tallinnas.mp4" controls="yes" >}}
+{{< video src="vaikelapse-fotosessioon.mp4" controls="yes" >}}
