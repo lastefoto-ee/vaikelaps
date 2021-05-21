@@ -6,9 +6,9 @@
 et:
   languageCode: et
   contentDir: content/et
-  title: Väikelastefotograaf
+  title: Väikelaps
   params:
-    description: Väikelastefotograaf Tallinnas - Viktoria Iljin
+    description: Väikelapse fotograaf Tallinnas - Viktoria Iljin
   menu:
     main:
       - name: Minust
