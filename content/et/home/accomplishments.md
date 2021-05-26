@@ -28,17 +28,17 @@ item:
   date_start: "2019-09-28"
   description: "Osalemine vastsündinu ja väikelaste pildistamise koolituses"
   organization: Anna Potemkina
-  organization_url: "https://annapotemkina.com"
+  organization_url: "https://www.lastefoto.ee/anna-potemkina/"
   title: "Vastsündinu ja väikelaste pildistamise koolitus"
-  url: ""  
+  url: "https://www.lastefoto.ee/anna-potemkina/"  
 - certificate_url: "https://www.lastefoto.ee/photo-shooting-and-post-production-karina-kiel.jpg"
   date_end: ""
   date_start: "2017-12-15"
   description: "Osalemine lastefotograafia koolitusel"
   organization: "Karina Kiel"
-  organization_url: "https://karina-kiel.com"
+  organization_url: "https://www.lastefoto.ee/karina-kiel/"
   title: "Lavastatud lastefotograafia ja art järeltöötlus koolitus"
-  url: "" 
+  url: "https://www.lastefoto.ee/karina-kiel/" 
 
 design:
   columns: '2' 

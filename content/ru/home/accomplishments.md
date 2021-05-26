@@ -28,17 +28,17 @@ item:
   date_start: "2019-09-28"
   description: "Участие в мастер классе по съемке новорожденных и детей до года"
   organization: Anna Potemkina
-  organization_url: "https://annapotemkina.com/"
+  organization_url: "https://www.lastefoto.ee/ru/anna-potemkina/"
   title: "Фотография новорожденных и детей"
-  url: "https://annapotemkina.com/"  
+  url: "https://www.lastefoto.ee/ru/anna-potemkina/"  
 - certificate_url: "https://www.lastefoto.ee/photo-shooting-and-post-production-karina-kiel.jpg"
   date_end: ""
   date_start: "2017-12-15"
   description: "Участие в мастер классе по детской фотографии"
   organization: "Карина Киль"
-  organization_url: "https://karina-kiel.com"
+  organization_url: "https://www.lastefoto.ee/ru/karina-kiel/"
   title: "Постановочная детская фотография и арт пост-обработка"
-  url: "https://karina-kiel.com" 
+  url: "https://www.lastefoto.ee/ru/karina-kiel/" 
 
 design:
   columns: '2' 
