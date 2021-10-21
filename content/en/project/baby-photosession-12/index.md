@@ -3,7 +3,7 @@ title: Baby photosession in the studio of Tallinn
 summary: babygirl
 tags:
 - baby
-date: "2020-08-22T00:00:00Z"
+date: "2021-10-20T10:07:53+03:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,11 +12,7 @@ image:
   caption: Photo by Viktoria Iljin
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: twitter
-  url: https://twitter.com/lastefoto
+links: []
 url_code: ""
 url_pdf: ""
 url_slides: ""
