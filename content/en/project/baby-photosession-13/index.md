@@ -1,5 +1,5 @@
 ---
-title: Baby photosession 
+title: Baby photo shoot 
 summary: babygirl
 tags:
 - baby

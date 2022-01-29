@@ -1,5 +1,5 @@
 ---
-title: Baby photosession in Tallinn
+title: Baby photo shoot in Tallinn
 summary: babyboy
 tags:
 - baby

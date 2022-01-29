@@ -1,5 +1,5 @@
 ---
-title: Photosession with colors
+title: photo shoot with colors
 summary: babygirl
 tags:
 - colors

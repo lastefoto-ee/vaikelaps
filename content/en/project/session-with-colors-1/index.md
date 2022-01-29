@@ -1,5 +1,5 @@
 ---
-title: Photosession with edible colors
+title: photo shoot with edible colors
 summary: babyboy
 tags:
 - colors

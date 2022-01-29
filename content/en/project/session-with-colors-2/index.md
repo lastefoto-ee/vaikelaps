@@ -1,5 +1,5 @@
 ---
-title: Photosession with edible colors in Tallinn
+title: photo shoot with edible colors in Tallinn
 summary: babygirl
 tags:
 - colors

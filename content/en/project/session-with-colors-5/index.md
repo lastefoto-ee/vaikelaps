@@ -1,5 +1,5 @@
 ---
-title: Photosession with colors in Tallinn
+title: photo shoot with colors in Tallinn
 summary: babygirl
 tags:
 - colors

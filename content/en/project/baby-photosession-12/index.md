@@ -1,5 +1,5 @@
 ---
-title: Baby photosession in the studio of Tallinn
+title: Baby photo shoot in the studio of Tallinn
 summary: babygirl
 tags:
 - baby

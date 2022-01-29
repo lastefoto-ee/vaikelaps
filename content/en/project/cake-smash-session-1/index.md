@@ -1,5 +1,5 @@
 ---
-title: Cake smash photosession 
+title: Cake smash photo shoot 
 summary: babyboy
 tags:
 - cake smash

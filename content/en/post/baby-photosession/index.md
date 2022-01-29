@@ -1,5 +1,5 @@
 ---
-title: Baby photosession
+title: Baby photo shoot
 subtitle: Baby session in Tallinn
 
 # Summary for listings and search engines
@@ -33,7 +33,7 @@ authors:
   - admin
 
 tags:
-  - baby photosession
+  - baby photo shoot
   - baby
   - baby session
 
@@ -52,7 +52,7 @@ Just dive into those eyes! 😍
 With grown-up babies in a photoshoot the exact same rule applies as in shooting with newborns -
 ## calm mom = calm baby
 
-![Baby photosession in Tallinn](./baby-photosession-2.jpg)
+![Baby photo shoot in Tallinn](./baby-photosession-2.jpg)
 
 Go to the shooting with a smile and a calm heart (yes, no need to panic), tell your kid where and why you are going, let him see your confidence and good mood!
 

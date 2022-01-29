@@ -37,7 +37,7 @@ item:
   description: "Participation at Art Photography workshop"
   organization: "Karina Kiel"
   organization_url: "https://www.lastefoto.ee/en/karina-kiel/"
-  title: "Staged photosession and art post-production"
+  title: "Staged photo shoot and art post-production"
   url: "https://www.lastefoto.ee/en/karina-kiel/" 
 
 design:
