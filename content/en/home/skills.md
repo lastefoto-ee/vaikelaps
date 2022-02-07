@@ -16,30 +16,22 @@ subtitle: ''
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 1-2 set ups, 10 digital photos, assistance in posing, 1 hour of shooting in the studio.
+- description: baby photo shoot on a posing pillow and in props, 10 processed digital and printed photos 10x15cm, shooting for 1 hour in the studio, processing of additional photos 5 €/photo.
   icon: female
   icon_pack: fas
-  name: PREGNANCY S 160€
-- description: 2-3 set ups, silhouette on black and white backgrounds, 15 digital photos, assistance in posing, 2 hours of shooting in the studio.
+  name: BABY S 110€
+- description: baby photo shoot on a posing pillow and in props, general family photos and separate pictures with mom-dad and brother-sister, 15 processed digital and printed photos 10x15cm, shooting for 1 hour in the studio, processing of additional photos 5 €/photo.
   icon: grin-hearts
   icon_pack: fas
-  name: PREGNANCY M 235€
-- description: 2-3 set ups, silhouette on black and white backgrounds and silhouette on a colored background (if desired), assistance in posing, 20 digital photos, makeup and curls (for 1 person), 2 hours of shooting in the studio.
+  name: BABY M 140€
+- description: 20 processed digital photos, cake, balloons (15pcs), 1 hour of shooting in the studio, processing of additional photos 5 €/photo.
   icon: kiss-wink-heart
   icon_pack: fas
-  name: PREGNANCY L 345€
-- description: photo session of a newborn on a posing pillow (beanbag), 7 digital photos, shooting for 2 hours in the studio, printed photos 10x15cm, USB drive with all retouched photos in individually designed packaging, retouching of additional photos 10 € / photo
+  name: CAKE SMASH 170€
+- description: 10 processed digital photos, edible paints, canvas with baby’s masterpiece, 40 minutes of shooting in the stuudio, processing of additional photos 5 €/photo.
   icon: baby
   icon_pack: fas
-  name: NEWBORN S 185€
-- description: photo session of a newborn on a posing pillow (beanbag) and in the props, 17 digital photos, family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, USB drive with all retouched photos in individually designed packaging, retouching of additional photos 9 € / photo
-  icon: child
-  icon_pack: fas
-  name: NEWBORN M 290€
-- description: photo session of a newborn on a posing pillow (beanbag) and in the props, 30 digital photos, family shots and photos with siblings, shooting for 2-3 hours in the studio, printed photos 10x15cm, photobook 20 x 20 cm, USB drive with all retouched photos in individually designed packaging, retouching of additional photos 8 € / photo
-  icon: birthday-cake
-  icon_pack: fas
-  name: NEWBORN L 410€
+  name: COLORS 120€
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
