@@ -16,23 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: beebi pildistamine poseerimise padja peal (beanbag’il) ja rekvisiidis, 10 töödeldud digipilti (ühistpilti ega võtteid pereliikmetega antud paketi raames ei tee), pildistamine stuudios 40-50 minuti jooksul, prinditud pildid 10x15cm, lisapildi töötlus 5€ / pilt.
-  icon: camera-retro
+- description: 1-2 erinevat set-upi, 10 digifaili, abi poseerimisel, 1-tunnine fotosessioon stuudios.
+  icon: female
   icon_pack: fas
-  name: BEEBI S 110€
-- description: beebi pildistamine poseerimise padja peal (beanbag’il) ja rekvisiidis, perepildid ja pildid emme-issiga ja õdede-vendadega, 15 töödeldud digipilti, pildistamine stuudios 1 tunni jooksul, prinditud pildid 10x15cm, lisapildi töötlus 5€ / pilt.<br>
-  icon: camera-retro
+  name: BEEBIOOTUS S 160€
+- description: 2-3 erinevat set-upi, siluett pildid mustal/valgel taustal, 15 digifaili, abi poseerimisel, 2-tunnine fotosessioon stuudios.
+  icon: grin-hearts
   icon_pack: fas
-  name: BEEBI M 140€
-- description: 20 töödeldud digipilti, 1-tunnine fotosessioon stuudios, tort (kohupiima-banaani biskviit), õhupallid (15 tk)
-  icon: camera-retro
+  name: BEEBIOOTUS M 235€
+- description: 2-3 erinevat set-upi, siluett pildid mustal/valgel/värvilisel taustal, 20 digifaili, abi poseerimisel, 2-tunnine fotosessioon stuudios, meik ja lokid (1 inimesele).
+  icon: kiss-wink-heart
   icon_pack: fas
-  name: CAKE SMASH 170€
-- description: 10 töödeldud digipilti, 40-minutiline fotosessioon stuudios, söödavad värvid, lõuend beebi meistriteosega - kingituseks
-  icon: camera-retro
+  name: BEEBIOOTUS M 345€
+- description: beebi pildistamine poseerimispadja peal, 7 töödeldud digi- ja paberpilti 10x15cm, pildistamine stuudios 2 tunni jooksul, retušeeritud piltidest koostatud veebigalerii, mida soovi korral saate ka jagada, kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk, lisapildi töötlus 10€ / pilt.
+  icon: baby
   icon_pack: fas
-  name: VÄRVID 120€
-
+  name: BEEBI S 185€
+- description: beebi pildistamine poseerimispadja peal ja rekvisiidis, 17 töödeldud digi- ja paberpilti 10x15cm, fotod pereliikmetega ning ühine perepilt, pildistamine stuudios 2-3 tunni jooksul, retušeeritud piltidest koostatud veebigalerii, kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk, lisapildi töötlus 9€ / pilt.
+  icon: child
+  icon_pack: fas
+  name: BEEBI M 290€
+- description: beebi pildistamine poseerimispadja peal ja rekvisiidis, 30 töödeldud digi- ja paberpilti 10x15cm, fotod pereliikmetega ning ühine perepilt, pildistamine stuudios 2-3 tunni jooksul, retušeeritud piltidest koostatud veebigalerii, fotoraamat 20 х 20 cm, kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk, lisapildi töötlus 8€ / pilt.
+  icon: birthday-cake
+  icon_pack: fas
+  name: BEEBI L 410€
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -48,3 +55,5 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
+## 💕 Jäädvusta oma beebi kasvamist 👶 broneeri fotosessioon kohe
+Kasuta Facebook Messenger/WhatsApp nuppu lehe paremast nurgast, või helista +37255599546
