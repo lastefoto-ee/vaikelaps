@@ -1,6 +1,6 @@
 ---
 title: Väikelaste cake smash fotosessioon
-summary: beebitüdruk, 10 päeva uus
+summary: beebitüdruk
 tags:
 - cake smash
 date: "2021-10-20T11:20:53+03:00"

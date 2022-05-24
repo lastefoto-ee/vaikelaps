@@ -1,6 +1,6 @@
 ---
 title: Väikelapse sessioon Tallinnas
-summary: beebitpoiss
+summary: beebipoiss
 tags:
 - beebi
 date: "2021-10-20T10:53:53+03:00"

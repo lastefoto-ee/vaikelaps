@@ -33,6 +33,8 @@ content:
     tag: cake smash
   - name: värvid 
     tag: värvid
+  - name: väike kokk 
+    tag: väike kokk
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
