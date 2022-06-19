@@ -1,5 +1,5 @@
 ---
-title: Väikelapse pildistamine Tallinnas
+title: Väikelapse lilledega pildistamine Tallinnas
 summary: beebitüdruk
 tags:
 - beebi
