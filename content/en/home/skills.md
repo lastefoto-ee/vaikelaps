@@ -16,14 +16,14 @@ subtitle: ''
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 4-11 months baby photo shoot on a posing pillow and in props, 10 processed digital and printed photos 10x15cm, shooting for 1 hour in the studio, processing of additional photos 5 €/photo.
+- description: 4-11 months baby photo shoot on a posing pillow and in props, 12 processed digital and printed photos 10x15cm, shooting for 1 hour in the studio, processing of additional photos 5 €/photo.
   icon: female
   icon_pack: fas
-  name: BABY S 110€
-- description: 4-11 months baby photo shoot on a posing pillow and in props, general family photos and separate pictures with mom-dad and brother-sister, 15 processed digital and printed photos 10x15cm, shooting for 1 hour in the studio, processing of additional photos 5 €/photo.
+  name: BABY S 130€
+- description: 4-11 months baby photo shoot on a posing pillow and in props, general family photos and separate pictures with mom-dad and brother-sister, 20 processed digital and printed photos 10x15cm, shooting for 1 hour in the studio, processing of additional photos 5 €/photo.
   icon: grin-hearts
   icon_pack: fas
-  name: BABY M 140€
+  name: BABY M 170€
 - description: 20 processed digital photos, cake, balloons (10pcs), 1 hour of shooting in the studio, processing of additional photos 5 €/photo.
   icon: kiss-wink-heart
   icon_pack: fas

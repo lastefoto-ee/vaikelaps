@@ -16,14 +16,14 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: beebi (vanuses 4-11 kuud) pildistamine poseerimise padja peal ja rekvisiidis, 10 töödeldud digi- ja paberpilti 10x15cm, 1-tunnine fotosessioon stuudios, lisapildi töötlus 5€/pilt.
+- description: beebi (vanuses 4-11 kuud) pildistamine poseerimise padja peal ja rekvisiidis, 12 töödeldud digi- ja paberpilti 10x15cm, 1-tunnine fotosessioon stuudios, lisapildi töötlus 5€/pilt.
   icon: female
   icon_pack: fas
-  name: BEEBI S 110€
-- description: beebi (vanuses 4-11 kuud) pildistamine poseerimise padja peal ja rekvisiidis, ühine perepilt ja ka pildid emme-issiga ja õdede-vendadega, 15 töödeldud digi- ja paberpilti 10x15cm, 1-tunnine fotosessioon stuudios, lisapildi töötlus 5€/pilt.
+  name: BEEBI S 130€
+- description: beebi (vanuses 4-11 kuud) pildistamine poseerimise padja peal ja rekvisiidis, ühine perepilt ja ka pildid emme-issiga ja õdede-vendadega, 20 töödeldud digi- ja paberpilti 10x15cm, 1-tunnine fotosessioon stuudios, lisapildi töötlus 5€/pilt.
   icon: grin-hearts
   icon_pack: fas
-  name: BEEBI M 140€
+  name: BEEBI M 170€
 - description: 20 töödeldud digipilti, tort, 10 õhupalli, 1-tunnine fotosessioon stuudios, lisapildi töötlus 5€/pilt.
   icon: kiss-wink-heart
   icon_pack: fas
