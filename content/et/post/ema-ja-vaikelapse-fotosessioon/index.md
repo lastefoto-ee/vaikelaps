@@ -6,7 +6,7 @@ subtitle: Stiilsed fotod emast ja väikelapsest
 summary: Stiilsed fotod emast ja väikelapsest
 # Link this post with a project
 projects: 
-  - beebid
+  - väikelaps
 
 # Date published
 date: "2021-10-20T10:45:53+03:00"

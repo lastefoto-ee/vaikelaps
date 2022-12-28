@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [väikelaps]
 ---
 Kas teie väikelaps loob seintele veetlevaid plekke peedipüree abiga ega ole joonistamise suhtes ükskõikne?
 Siis väikelaste fotosessioon **Noor abstraktsionist** lõuendi ja söödavate värvidega - on just see, mis on vaja teie väikese geeniuse potentsiaali näitamiseks.

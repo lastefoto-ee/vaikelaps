@@ -7,7 +7,7 @@ summary: Fotopäev toimub 30. septembril - 2. oktoobril 2022
 
 # Link this post with a project
 projects: 
-  - beebid
+  - väikelaps
 
 # Date published
 date: "2022-08-31T06:08:53+03:00"
@@ -41,7 +41,7 @@ tags:
   - beebi
 
 categories:
-  - beebid
+  - väikelaps
 
 gallery_item:
 - album: fotoden-povarenok
