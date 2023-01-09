@@ -43,7 +43,7 @@ Hind sisaldab:
 
 {{< cta cta_text="💛 Broneeri beebi fotosessioon kohe" cta_link="/#contact" cta_new_tab="false" >}}
 
-{{< figure src="beebi-fotosessioon-tallinnas.jpg" title="Beebifotosessioon Tallinnas, näidispildid" >}}
+{{< figure src="vaikelapse-fotosessioon-tallinnas.jpg" title="Beebifotosessioon Tallinnas, näidispildid" >}}
 
 ## Täispakett (1 tund) *290*€
 _Parim aeg beebi jäädvustamiseks on 4-11 elukuu._ 
@@ -60,7 +60,7 @@ Hind sisaldab:
 9. kõikide töödeldud fotodega individuaalselt kujundatud pakendis USB-mälupulk;
 10. lisapildi töötlus 8€ / pilt;
 
-{{< figure src="beebi-pildistamine-tallinnas.jpg" title="Beebi pildistamine Tallinnas, näidispildid" >}}
+{{< figure src="vaikelapse-pildistamine-tallinnas.jpg" title="Beebi pildistamine Tallinnas, näidispildid" >}}
 
 {{< cta cta_text="💛 Jäädvustada oma beebi ilu kaunilt ja kunstiliselt" cta_link="/#contact" cta_new_tab="false" >}}
 
